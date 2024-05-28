@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Swift-30363D?style=for-the-badge&logo=swift&logoColor=#61DAFB" />
   <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=java&logoColor=#61DAFB" />
 </p>
-<p align="center">I am familiar with:</p>
+<p align="center">Other:</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-30363D?style=for-the-badge&logo=flutter&logoColor=#61DAFB" />
