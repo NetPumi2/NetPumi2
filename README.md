@@ -1,17 +1,30 @@
 
 <h1 align="center"> Hi there 👋 I am Lukáš!</h1>
 <p align="center">A Mobile / Front-End Engineer from the Czech Republic 🇨🇿 living in Switzerland 🇨🇭</p>
-<p align="center">My Focus: </p>
+<p align="center">Main focus:</p>
 <p align="center">
-<img src="https://img.shields.io/badge/React_JS-blue" />
-<img src="https://img.shields.io/badge/React_Native-blue" />
-<img src="https://img.shields.io/badge/Android-blue" />
-<img src="https://img.shields.io/badge/iOS-blue" />
+  <img src="https://img.shields.io/badge/React_JS-30363D?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-30363D?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Android-30363D?style=for-the-badge&logo=android&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/iOS-30363D?style=for-the-badge&logo=apple&logoColor=#61DAFB" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/React_Native-beedd9?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+<p align="center">Programming languages:</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-30363D?style=for-the-badge&logo=javascript&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-30363D?style=for-the-badge&logo=typescript&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-30363D?style=for-the-badge&logo=kotlin&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Swift-30363D?style=for-the-badge&logo=swift&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=java&logoColor=#61DAFB" />
 </p>
+<p align="center">I am familiar with:</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-30363D?style=for-the-badge&logo=flutter&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Vue-30363D?style=for-the-badge&logo=vuedotjs&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/C%23-30363D?style=for-the-badge&logo=csharp&logoColor=#61DAFB" />
+</p>
+
 
 <!--
 **NetPumi2/NetPumi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
