@@ -17,12 +17,22 @@
   <img src="https://img.shields.io/badge/Swift-30363D?style=for-the-badge&logo=swift&logoColor=#61DAFB" />
   <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=java&logoColor=#61DAFB" />
 </p>
-<p align="center">Other:</p>
+<p align="center">Interested in:</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-30363D?style=for-the-badge&logo=flutter&logoColor=#61DAFB" />
   <img src="https://img.shields.io/badge/Vue-30363D?style=for-the-badge&logo=vuedotjs&logoColor=#61DAFB" />
   <img src="https://img.shields.io/badge/C%23-30363D?style=for-the-badge&logo=csharp&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Arduino-30363D?style=for-the-badge&logo=arduino&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Unity-30363D?style=for-the-badge&logo=unity&logoColor=#61DAFB" />
+</p>
+
+<p align="center">Contact: </p>
+
+<p align="center">
+    <a href='https://www.linkedin.com/in/saleklukas/' target='_blank'>
+        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
 </p>
 
 
