@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 I am Lukáš!</h1>
-<p align="center">A Mobile / Front-End Engineer from the Czech Republic living in Switzerland 🇨🇭</p>
+<p align="center">A Mobile / Front-End Engineer from the Czech Republic 🇨🇿 living in Switzerland 🇨🇭</p>
 <p align="center">Main focus:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React_JS-30363D?style=for-the-badge&logo=react&logoColor=#61DAFB" />
